@@ -1,0 +1,10 @@
+Issue Type,Summary,Priority,Epic
+Epic,Report ingestion,High,Report ingestion
+Story,Upload annual report PDF,High,Report ingestion
+Story,Extract selected financial metrics,High,Report ingestion
+Epic,Metric validation,High,Metric validation
+Story,Edit extracted metric values,High,Metric validation
+Epic,Financial analysis,Medium,Financial analysis
+Story,Visualize metric trends,Medium,Financial analysis
+Story,Generate rule-based observations,Medium,Financial analysis
+Story,Export reviewed metrics to CSV,Low,Financial analysis
